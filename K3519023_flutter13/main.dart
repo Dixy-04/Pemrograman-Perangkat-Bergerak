@@ -17,8 +17,8 @@ class MyApp extends StatelessWidget {
         body: Center(
           child: Container(
             color: Colors.black,
-            width: 200,
-            height: 200,
+            width: 640,
+            height: 360,
             padding: EdgeInsets.all(3),
             child: Image(
               //image: NetworkImage("https://ichef.bbci.co.uk/news/800/cpsprodpb/8991/production/_104871253_1a76b03a-0a86-4ee3-85de-46f66d7f179e.jpg"),
